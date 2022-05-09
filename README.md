@@ -1,6 +1,6 @@
-<div style='text-align: center'>
-	<img src='./icon256.png'>
-</div>
+<p style="text-align: center">
+    <img src='./icon256.png' alt="">
+</p>
 
 ```
   ______               ____        _   _                 
